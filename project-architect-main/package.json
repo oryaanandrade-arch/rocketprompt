@@ -1,0 +1,13 @@
+{
+  "name": "project-architect-root",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run dev --prefix project-architect-main",
+    "build": "npm run build --prefix project-architect-main",
+    "preview": "npm run preview --prefix project-architect-main"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.10.2",
+    "@supabase/supabase-js": "^2.104.0"
+  }
+}

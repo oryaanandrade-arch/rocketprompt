@@ -1,0 +1,31 @@
+project_id = "wzevsefytofswpqwksvm"
+
+[functions.admin-users]
+verify_jwt = false
+
+[functions.generate-blueprint]
+verify_jwt = false
+
+[functions.import-idea]
+verify_jwt = false
+
+[functions.chat-ai]
+verify_jwt = false
+
+[functions.perfectpay-webhook]
+verify_jwt = false
+
+[functions.improve-prompt]
+verify_jwt = false
+
+[functions.send-email]
+verify_jwt = false
+
+[functions.generate-contract]
+verify_jwt = false
+
+[functions.sign-contract]
+verify_jwt = false
+
+[functions.send-contract-email]
+verify_jwt = false
